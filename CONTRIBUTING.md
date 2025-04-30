@@ -14,7 +14,7 @@ Click the "Fork" button at the top right of this page to create your own copy of
 
 ### 2. Clone Your Fork
 ```
-git clone https://github.com/your-username/garch-volatility-dashboard.git
+git clone https://github.com/Aminah-Dodiya/Stock_Volatility_Dashboard.git
 cd garch-volatility-dashboard
 ```
 
@@ -89,7 +89,7 @@ See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for details.
 
 If you find a bug or have a feature request:
 
-1. Check if it’s already reported in [issues](https://github.com/your-username/garch-volatility-dashboard/issues).
+1. Check if it’s already reported in [issues](https://github.com/Aminah-Dodiya/Stock_Volatility_Dashboard/issues).
 2. If not, open a new issue with a clear title and detailed description.
 3. Include steps to reproduce, screenshots, or code snippets if helpful.
 

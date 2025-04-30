@@ -31,8 +31,8 @@ Supports:
 ## Demo
 
 <p align="center">
-  <img src="images/home_screenshot.jpg" alt="Home Page" width="45%">
-  <img src="images/dashboard_screenshot.jpg" alt="Dashboard" width="45%">
+  <img src="images/home_screenshot.jpeg" alt="Home Page" width="45%">
+  <img src="images/dashboard_screenshot.jpeg" alt="Dashboard" width="45%">
 </p>
 <p align="center">
   <b>Left:</b> Landing page &nbsp; | &nbsp; <b>Right:</b> Dashboard for model training and forecasting
@@ -74,7 +74,6 @@ Stock_Volatility_Dashboard/
 │   └── form.html
 ├── .env.example          # Example environment config file
 ├── CODE_OF_CONDUCT.md    # Code of conduct for contributors
-
 ├── config.py             # Config settings (e.g., DB/API keys)
 ├── CONTRIBUTING.md       # Contribution guidelines
 ├── data.py               # SQLite and API data handling
@@ -121,7 +120,7 @@ Stock_Volatility_Dashboard/
 
 1. **Clone the repository:**
 ```
-git clone https://github.com/your_username/garch-dashboard.git
+git clone https://github.com/Aminah-Dodiya/Stock_Volatility_Dashboard.git
 cd garch-dashboard
 ```
 
@@ -152,10 +151,12 @@ Visit [http://127.0.0.1:8000](http://127.0.0.1:8000) in your browser.
 - **Model diagnostics** (AIC, BIC, Ljung-Box) are displayed after training.
 - **Forecasts** are visualized with confidence intervals and available for CSV download.
 - **Example output:**  
+```
 | Date           | Volatility | Lower CI | Upper CI |
 |----------------|------------|----------|----------|
 | 2025-04-30     | 1.38       | 0.53     | 2.24     |
 | ...            | ...        | ...      | ...      |
+```
 
 ---
 
@@ -202,6 +203,6 @@ This app does not constitute investment advice.
 
 ## Contact
 
-For questions, suggestions, or issues, please open an issue on GitHub or contact [your.email@example.com](mailto:your.email@example.com).
+For questions, suggestions, or issues, please open an issue on GitHub or contact [your.email@example.com](mailto:aminah.dodiya.3@gmail.com).
 
 ---
