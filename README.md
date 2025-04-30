@@ -1,9 +1,6 @@
 # GARCH Volatility Modeling Dashboard with FastAPI
 
-An end-to-end interactive web application for modeling and forecasting stock market volatility using GARCH (Generalized Autoregressive Conditional Heteroskedasticity) models. Built with FastAPI and a responsive UI, the app supports both manual and automatic model selection, and enables users to analyze time-series volatility for global stock tickers — including those from exchanges like BSE, NSE, NYSE, LSE, and SSE.
-
 A production-ready FastAPI application to **forecast stock market volatility** using GARCH (Generalized Autoregressive Conditional Heteroskedasticity) models. Built for both **technical** and **non-technical users** with FastAPI, it enables users to select a stock ticker (including international tickers from major global exchanges such as the Bombay Stock Exchange, New York Stock Exchange, London Stock Exchange, National Stock Exchange of India, Shanghai Stock Exchange, and more), train a GARCH model, and visualize or download future volatility forecasts with confidence intervals-all through a modern, user-friendly dashboard designed.
-
 
 ## Overview
 
