@@ -69,15 +69,15 @@ Stock_Volatility_Dashboard/
 ├── templates/            # Jinja2 HTML templates
 │   ├── index.html
 │   └── form.html
-├── .env.example          # Example environment config file
 ├── CODE_OF_CONDUCT.md    # Code of conduct for contributors
-├── config.py             # Config settings (e.g., DB/API keys)
 ├── CONTRIBUTING.md       # Contribution guidelines
-├── data.py               # SQLite and API data handling
 ├── LICENSE               # Project license (e.g., MIT)
+├── README.md             # Project documentation
+├── config.py             # Config settings (e.g., DB/API keys)
+├── data.py               # SQLite and API data handling
 ├── main.py               # FastAPI app with routes
 ├── model.py              # GARCH modeling logic
-├── README.md             # Project documentation
+├── .env.example          # Example environment config file
 └── requirements.txt      # Python dependencies 
 ```
 ---
@@ -123,6 +123,8 @@ cd garch-dashboard
 
 2. **Set up your environment:**
 - Create a `.env` file with your AlphaVantage API key and other settings (see `.env.example`).
+- Simply sign up here (https://www.alphavantage.co/support/#api-key) to receive your personal API key with lifetime access.
+- The free tier allows up to 25 requests per day, which is sufficient for most individual and educational use cases.
 
 3. **Install dependencies:**
 ```
