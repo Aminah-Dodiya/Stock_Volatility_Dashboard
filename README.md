@@ -203,6 +203,6 @@ This app does not constitute investment advice.
 
 ## Contact
 
-For questions, suggestions, or issues, please open an issue on GitHub or contact [your.email@example.com](mailto:aminah.dodiya.3@gmail.com).
+For questions, suggestions, or issues, please open an issue on GitHub or contact [aminah.dodiya.3@gmail.com](mailto:your.email@example.com).
 
 ---
