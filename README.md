@@ -69,6 +69,7 @@ Stock_Volatility_Dashboard/
 ├── templates/            # Jinja2 HTML templates
 │   ├── index.html
 │   └── form.html
+├── .env.example          # Example environment config file
 ├── CODE_OF_CONDUCT.md    # Code of conduct for contributors
 ├── CONTRIBUTING.md       # Contribution guidelines
 ├── LICENSE               # Project license (e.g., MIT)
@@ -77,7 +78,6 @@ Stock_Volatility_Dashboard/
 ├── data.py               # SQLite and API data handling
 ├── main.py               # FastAPI app with routes
 ├── model.py              # GARCH modeling logic
-├── .env.example          # Example environment config file
 └── requirements.txt      # Python dependencies 
 ```
 ---
