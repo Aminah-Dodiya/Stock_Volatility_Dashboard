@@ -23,21 +23,12 @@ Supports:
 
 ## FastAPI Web App Demo
 
-### **Live Demo Screenshot**
-
-## Demo
-
-<p align="center">
-  <img src="images/home_screenshot.jpeg" alt="Home Page" width="45%">
-  <img src="images/dashboard_screenshot.jpeg" alt="Dashboard" width="45%">
-</p>
-<p align="center">
-  <b>Left:</b> Landing page &nbsp; | &nbsp; <b>Right:</b> Dashboard for model training and forecasting
-</p>
-
-### **Demo Page Structure**
-
+### 1. Home Page
+![Home Page](images/home_screenshot.jpeg)
 - **Home:** Entry point with navigation to the dashboard and API docs.
+
+### 2. Dashboard
+![Dashboard](images/dashboard_screenshot.jpeg)
 - **Dashboard:** 
     - Train GARCH Model: Select ticker, choose auto/manual parameters, fit model.
     - Model Diagnostics: View AIC, BIC, and residual test results.
